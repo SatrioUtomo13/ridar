@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .input-login {
-  @apply w-3/5 py-2 m-auto outline-4 -outline-offset-1 outline-blue-400 border-b border-black pl-2;
+  @apply w-3/5 py-2 m-auto outline-4 -outline-offset-1 outline-blue-400 border-b border-gray-500 pl-2;
 }
