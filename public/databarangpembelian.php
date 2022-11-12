@@ -1,6 +1,6 @@
 <?php include('template/header.php') ?>
 <div class="border border-slate-300 shadow-lg mx-5 rounded-md">
-    <h2 class="bg-[#DEE4EF] px-3 py-2">Data Barang</h2>
+    <h2 class="bg-[#DEE4EF] px-3 py-2">Data Barang Pembelian</h2>
     <div class="flex justify-between bg-slate-200 px-3 py-3">
         <select name="" id="" class="border border-slate-300">
             <option value="10">10</option>
@@ -31,8 +31,8 @@
                 <div class="... table-cell">500000</div>
                 <div class="... table-cell">Sepatu</div>
                 <div class=" table-cell">
-                    <button class="bg-blue-300 w-fit border border-black">btn-1</button>
-                    <button>btn-2</button>
+                    <button class="bg-slate-200 rounded-md px-2">edit</button>
+                    <button class="bg-red-600 rounded-md px-2 text-white">hapus</button>
                 </div>
             </div>
         </div>
